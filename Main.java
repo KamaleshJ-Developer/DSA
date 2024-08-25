@@ -1,6 +1,4 @@
-package BinarySearchTree;
-
-import DSA.BinarySearchTree;
+package DSA;
 
 public class Main {
 
